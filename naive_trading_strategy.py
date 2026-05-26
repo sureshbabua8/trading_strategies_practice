@@ -1,8 +1,8 @@
 import alpaca_trade_api as tradeapi
 import random
 
-API_KEY = "PKXOHK2X7VD14YTY3CKQ"
-API_SECRET = "YXjO1uK50duC52VC3O7qqrFKTPNbsFKVmljDfwpb"
+API_KEY = "****"
+API_SECRET = "****"
 BASE_URL = "https://paper-api.alpaca.markets"
 
 # Initialize the Alpaca API
